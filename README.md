@@ -5,6 +5,7 @@
 2. [Uformer: A General U-Shaped Transformer for Image Restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.pdf). Zhendong Wang, Xiaodong Cun, Jianmin Bao, Wengang Zhou, Jianzhuang Liu, Houqiang Li. [[Code](https://github.com/ZhendongWang6/Uformer)]
 3. [MAXIM: Multi-Axis MLP for Image Processing](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.pdf). Zhengzhong Tu, Hossein Talebi, Han Zhang, Feng Yang, Peyman Milanfar, Alan Bovik, Yinxiao Li. [[Code](https://github.com/google-research/maxim)]
 4. [KNN Local Attention for Image Restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_KNN_Local_Attention_for_Image_Restoration_CVPR_2022_paper.pdf). Hunsang Lee, Hyesong Choi, Kwanghoon Sohn, Dongbo Min.
+5. [Deep Generalized Unfolding Networks for Image Restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.pdf). Chong Mou, Qian Wang, Jian Zhang. [[Code](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration)]
 
 ## AAAI 2022
 1. [SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained Siamese Transformers](https://www.aaai.org/AAAI22Papers/AAAI-7488.LiuL.pdf). Lin Liu, Shanxin Yuan, Jianzhuang Liu, Xin Guo, Youliang Yan, Qi Tian.
