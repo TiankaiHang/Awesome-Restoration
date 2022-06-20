@@ -25,4 +25,3 @@
 ## arXiv 2021
 1. [On Efficient Transformer-Based Image Pre-Training for Low-Level Vision](https://arxiv.org/pdf/2112.10175). Wenbo Li, Xin Lu, Shengju Qian, Jiangbo Lu, Xiangyu Zhang, Jiaya Jia. [[Code](https://github.com/fenglinglwb/EDT)]
 2. [U<sup>2</sup>-Former: A Nested U-shaped Transformer for Image Restoration](https://arxiv.org/pdf/2112.02279). Haobo Ji, Xin Feng, Wenjie Pei, Jinxing Li, Guangming Lu.
-3. [A Practical Contrastive Learning Framework for Single Image Super-Resolution](https://arxiv.org/pdf/2111.13924). Gang Wu, Junjun Jiang, Xianming Liu, Jiayi Ma.
