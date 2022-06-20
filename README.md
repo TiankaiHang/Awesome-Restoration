@@ -73,6 +73,7 @@
 3. [Multi-Scale Weighted Nuclear Norm Image Restoration](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yair_Multi-Scale_Weighted_Nuclear_CVPR_2018_paper.pdf). Noam Yair, Tomer Michaeli.
 4. [Image Restoration by Estimating Frequency Distribution of Local Patches](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yoo_Image_Restoration_by_CVPR_2018_paper.pdf). Jaeyoung Yoo, Sang-ho Lee, Nojun Kwak.
 5. [Nonlocal Low-Rank Tensor Factor Analysis for Image Restoration](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Nonlocal_Low-Rank_Tensor_CVPR_2018_paper.pdf). Xinyuan Zhang, Xin Yuan, Lawrence Carin.
+6. [Deep Image Prior](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf). Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky. [[Code](https://github.com/DmitryUlyanov/deep-image-prior)][[Project](https://dmitryulyanov.github.io/deep_image_prior)]
 
 ## ECCV 2018
 1. [Spatio-temporal Transformer Network for Video Restoration](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf). Tae Hyun Kim, Mehdi S. M. Sajjadi, Michael Hirsch, Bernhard Scholkopf.
