@@ -23,6 +23,8 @@
 3. [Simple Baselines for Image Restoration](https://arxiv.org/pdf/2204.04676). Liangyu Chen, Xiaojie Chu, Xiangyu Zhang, Jian Sun. [[Code](https://github.com/megvii-research/NAFNet)]
 4. [TAPE: Task-Agnostic Prior Embedding for Image Restoration](https://arxiv.org/pdf/2203.06074). Lin Liu, Lingxi Xie, Xiaopeng Zhang, Shanxin Yuan, Xiangyu Chen, Wengang Zhou, Houqiang Li, Qi Tian.
 5. [Adaptive Cross-Layer Attention for Image Restoration](https://arxiv.org/pdf/2203.03619). Yancheng Wang, Ning Xu, Chong Chen, Yingzhen Yang. [[Code](https://github.com/SDL-ASU/ACLA)]
+6. [No Attention is Needed: Grouped Spatial-temporal Shift for Simple and Efficient Video Restorers](https://arxiv.org/pdf/2206.10810.pdf). Dasong Li, Xiaoyu Shi, Yi Zhang, Xiaogang Wang, Hongwei Qin, Hongsheng Li. [[project](https://dasongli1.github.io/publication/grouped-shift-net/)]
+7. [Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/pdf/2206.11253.pdf). Shangchen Zhou, Kelvin C.K. Chan, Chongyi Li, Chen Change Loy. [[project](https://shangchenzhou.com/projects/CodeFormer)]
 
 ## ICCV 2021
 1. [Spatially-Adaptive Image Restoration Using Distortion-Guided Networks](https://openaccess.thecvf.com/content/ICCV2021/papers/Purohit_Spatially-Adaptive_Image_Restoration_Using_Distortion-Guided_Networks_ICCV_2021_paper.pdf). Kuldeep Purohit, Maitreya Suin, A. N. Rajagopalan, Vishnu Naresh Boddeti.
