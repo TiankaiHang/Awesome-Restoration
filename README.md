@@ -1,5 +1,9 @@
 # Awesome-Restoration
 
+## ECCV 2022
+1. [Simple Baselines for Image Restoration](https://arxiv.org/pdf/2204.04676). Liangyu Chen, Xiaojie Chu, Xiangyu Zhang, Jian Sun. [[Code](https://github.com/megvii-research/NAFNet)]
+2. [Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491). Xiaojie Chu, Liangyu Chen, Chengpeng Chen, Xin Lu. [[code](https://github.com/megvii-research/tlc)]
+
 ## CVPR 2022
 1. [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf). Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang. [[Code](https://github.com/swz30/Restormer)]
 2. [Uformer: A General U-Shaped Transformer for Image Restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.pdf). Zhendong Wang, Xiaodong Cun, Jianmin Bao, Wengang Zhou, Jianzhuang Liu, Houqiang Li. [[Code](https://github.com/ZhendongWang6/Uformer)]
@@ -20,11 +24,10 @@
 ## arXiv 2022
 1. [VRT: A Video Restoration Transformer](https://arxiv.org/pdf/2201.12288). Jingyun Liang, Jiezhang Cao, Yuchen Fan, Kai Zhang, Rakesh Ranjan, Yawei Li, Radu Timofte, Luc Van Gool. [[Code](https://github.com/JingyunLiang/VRT)]
 2. [Denoising Diffusion Restoration Models](https://arxiv.org/pdf/2201.11793). Bahjat Kawar, Michael Elad, Stefano Ermon, Jiaming Song. [[Code](https://github.com/bahjat-kawar/ddrm)]
-3. [Simple Baselines for Image Restoration](https://arxiv.org/pdf/2204.04676). Liangyu Chen, Xiaojie Chu, Xiangyu Zhang, Jian Sun. [[Code](https://github.com/megvii-research/NAFNet)]
-4. [TAPE: Task-Agnostic Prior Embedding for Image Restoration](https://arxiv.org/pdf/2203.06074). Lin Liu, Lingxi Xie, Xiaopeng Zhang, Shanxin Yuan, Xiangyu Chen, Wengang Zhou, Houqiang Li, Qi Tian.
-5. [Adaptive Cross-Layer Attention for Image Restoration](https://arxiv.org/pdf/2203.03619). Yancheng Wang, Ning Xu, Chong Chen, Yingzhen Yang. [[Code](https://github.com/SDL-ASU/ACLA)]
-6. [No Attention is Needed: Grouped Spatial-temporal Shift for Simple and Efficient Video Restorers](https://arxiv.org/pdf/2206.10810.pdf). Dasong Li, Xiaoyu Shi, Yi Zhang, Xiaogang Wang, Hongwei Qin, Hongsheng Li. [[project](https://dasongli1.github.io/publication/grouped-shift-net/)]
-7. [Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/pdf/2206.11253.pdf). Shangchen Zhou, Kelvin C.K. Chan, Chongyi Li, Chen Change Loy. [[project](https://shangchenzhou.com/projects/CodeFormer)]
+3. [TAPE: Task-Agnostic Prior Embedding for Image Restoration](https://arxiv.org/pdf/2203.06074). Lin Liu, Lingxi Xie, Xiaopeng Zhang, Shanxin Yuan, Xiangyu Chen, Wengang Zhou, Houqiang Li, Qi Tian.
+4. [Adaptive Cross-Layer Attention for Image Restoration](https://arxiv.org/pdf/2203.03619). Yancheng Wang, Ning Xu, Chong Chen, Yingzhen Yang. [[Code](https://github.com/SDL-ASU/ACLA)]
+5. [No Attention is Needed: Grouped Spatial-temporal Shift for Simple and Efficient Video Restorers](https://arxiv.org/pdf/2206.10810.pdf). Dasong Li, Xiaoyu Shi, Yi Zhang, Xiaogang Wang, Hongwei Qin, Hongsheng Li. [[project](https://dasongli1.github.io/publication/grouped-shift-net/)]
+6. [Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/pdf/2206.11253.pdf). Shangchen Zhou, Kelvin C.K. Chan, Chongyi Li, Chen Change Loy. [[project](https://shangchenzhou.com/projects/CodeFormer)]
 
 ## ICCV 2021
 1. [Spatially-Adaptive Image Restoration Using Distortion-Guided Networks](https://openaccess.thecvf.com/content/ICCV2021/papers/Purohit_Spatially-Adaptive_Image_Restoration_Using_Distortion-Guided_Networks_ICCV_2021_paper.pdf). Kuldeep Purohit, Maitreya Suin, A. N. Rajagopalan, Vishnu Naresh Boddeti.
